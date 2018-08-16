@@ -438,7 +438,7 @@
       <column datatype='integer' default-format='*00000' name='[Postal Code]' role='dimension' semantic-role='[ZipCode].[Name]' type='ordinal' />
       <column datatype='integer' name='[Row ID]' role='dimension' type='ordinal' />
       <column datatype='string' name='[State or Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.589172' measure-ordering='alphabetic' measure-percentage='0.410828' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.590234' measure-ordering='alphabetic' measure-percentage='0.409766' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
