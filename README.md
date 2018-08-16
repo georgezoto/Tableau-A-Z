@@ -30,9 +30,11 @@ Concepts learned:
 26) Advanced Data Preparation
 
 References:  
-https://www.tableau.com
-https://public.tableau.com
-https://www.udemy.com/tableau10
-https://www.superdatascience.com/tableau
+https://www.tableau.com  
+https://public.tableau.com  
+https://www.udemy.com/tableau10  
+https://www.superdatascience.com/tableau  
+
+![alt text](images/Tableau.jpg)
 
 ![alt text](images/Tableau-A-Z.png)
