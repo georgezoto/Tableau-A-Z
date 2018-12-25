@@ -38,3 +38,23 @@ https://www.superdatascience.com/tableau
 ![alt text](images/Tableau.jpg)
 
 ![alt text](images/Tableau-A-Z.png)
+
+![alt text](images/Section-3-Long-Term-Unemployment-Statistics.png)
+
+![alt text](images/Section-4-Customer-Purchase-Behavior-Dashboard-5.png)
+
+![alt text](images/Section-5-Dual-Axis-and-Calculated-Field-in-a-Blend.png)
+
+![alt text](images/Section-6-Customer-Demographics-Storyline.png)
+
+![alt text](images/Section-7-Personal-Vehicles-Sold.png)
+
+![alt text](images/Section-7-Personal-Vehicles-Sold-Percentage-Area.png)
+
+![alt text](images/Section-8-Linear-Regression-slope=Revenue-to-Marketing-Ratio.png)
+
+![alt text](images/Section-8-Preview-Dashboard-on-Mobile-Devices-1.png)
+
+![alt text](images/Section-8-Preview-Dashboard-on-Mobile-Devices-2.png)
+
+
