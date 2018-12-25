@@ -149,7 +149,7 @@
         </semantic-values>
       </column>
       <column-instance column='[REGIONS/COUNTRIES]' derivation='None' name='[none:REGIONS/COUNTRIES:nk]' pivot='key' type='nominal' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.556854' measure-ordering='alphabetic' measure-percentage='0.443146' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.488842' measure-ordering='alphabetic' measure-percentage='0.511158' show-structure='true' />
       <style>
         <style-rule element='mark'>
           <encoding attr='color' field='[none:REGIONS/COUNTRIES:nk]' type='palette'>
